@@ -29,4 +29,8 @@ This project aims to predict the age of individuals from images using a pre-trai
 ## Google Drive Link
 https://drive.google.com/drive/folders/1ZFa_j2d6DmOtD-uEYqXtbjVGQ-9CEgCw?usp=drive_link
 
-### Author: Apurv Chudasama
+## Author: Apurv Chudasama
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
